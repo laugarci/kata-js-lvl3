@@ -31,7 +31,7 @@ If when running the tests, you get an error similar to this:
 2. Try to execute `npm test` again
 
 
-# Espanish
+# Spanish
 
 # kata-js-lvl3
 
