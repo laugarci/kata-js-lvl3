@@ -21,6 +21,7 @@ Follow these steps to configure and execute the katas in your local enviroment.
 # Bug fix
 
 If when running the tests, you get an error similar to this:
+    
     /run.js:129
          if (error?.stack) {
               ^
